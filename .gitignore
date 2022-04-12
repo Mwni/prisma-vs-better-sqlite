@@ -1,0 +1,4 @@
+node_modules
+test.db
+prisma/migrations
+.DS_Store
